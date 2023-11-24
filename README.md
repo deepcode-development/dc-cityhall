@@ -31,7 +31,4 @@ ensure kh-cityhall
 ```
 
 ## Screenshots
-![alt text](https://github.com/Killerhunter100/kh-cityhall/blob/main/images/mainpage.png?raw=true)
-![alt text](https://github.com/Killerhunter100/kh-cityhall/blob/main/images/jobspage.png?raw=true)
-![alt text](https://github.com/Killerhunter100/kh-cityhall/blob/main/images/servicespage.png?raw=true)
-
+![alt text](https://github.com/Killerhunter100/kh-cityhall/blob/main/images/cityhall.png?raw=true)
